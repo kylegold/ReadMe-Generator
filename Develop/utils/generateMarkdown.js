@@ -9,8 +9,11 @@ function generateMarkdown(data) {
 
   * [Installation](#installation)
   * [Usage](#usage)
-  * [Credits](#credits)
-  * [License](#license)
+  * [Credits](#Credits)
+  * [License](#License)
+  * [Contributing](#Contributing)
+  * [Tests](#Tests)
+  * [Questions](#Questions)
   
   ## Installation
   ${data.Installation}
@@ -23,6 +26,16 @@ function generateMarkdown(data) {
 
   ## License
   ${data.License}
+
+  ## Contributing
+  ${data.Contributing}
+ 
+  ## Tests
+  ${data.Tests}
+
+  ## Questions
+  ${data.Contact}
+  ${data.Questions}
 `;
 }
 

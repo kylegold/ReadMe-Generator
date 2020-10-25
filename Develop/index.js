@@ -39,7 +39,27 @@ const questions = [
         "Apache License 2.0",
         "BSD" 
     ]
-    }
+    },
+    {
+    type: "input",
+    question: "Enter the contribution guidelines",
+    name: "Contributing"
+    },
+    {
+    type: "input",
+    question: "Include any tests here",
+    name: "Tests"
+    },
+    {
+    type: "input",
+    question: "What is your Email Address?",
+    name: "Contact"
+    },
+    {
+    type: "input",
+    question: "Enter further information on how people can reach you with additional questions",
+    name: "Questions"
+    },
 ];
 
 // function to write README file

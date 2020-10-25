@@ -1,23 +1,42 @@
 # README Generator
 
-  ## Description 
-  This program allows the user to generate a README markdown file using a terminal based template
+## Description
 
-  ## Table of Contents 
+This program allows the user to generate a README markdown file using a terminal based template
 
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [Credits](#credits)
-  * [License](#license)
-  
-  ## Installation
-  Download github files
+## Table of Contents
 
-  ## Usage 
-  generate a README markdown
+- [Installation](#installation)
+- [Usage](#usage)
+- [Credits](#Credits)
+- [License](#License)
+- [Contributing](#Contributing)
+- [Tests](#Tests)
+- [Questions](#Questions)
 
-  ## Credits
-  Kyle Goldfarb
+## Installation
 
-  ## License
-  MIT
+Download github files
+
+## Usage
+
+Generate a README markdown
+
+## Credits
+
+Kyle Goldfarb
+
+## License
+
+MIT
+
+## Contributing
+
+Anyone is welcome to add new features
+
+## Tests
+
+## Questions
+
+kyle@kyle.nyc
+Feel free to contact me with any further questions
